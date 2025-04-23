@@ -8,4 +8,4 @@ This is a final project aiming to creat a prediction model for language similari
 3. Cosine Similarity
 4. Binary Classification
 ### FURTHER INFORMATION:
-For more information read my paper regarding the project here: https://docs.google.com/document/d/1OmXNEYSgDPlXV9Kb2zFCjerAyo9HiHNB2nKuSJecdMU/edit?usp=sharing
+For more information read my paper regarding the project here: [LanguageSimilarityPredictor Report](https://docs.google.com/document/d/1OmXNEYSgDPlXV9Kb2zFCjerAyo9HiHNB2nKuSJecdMU/edit?usp=sharing)
