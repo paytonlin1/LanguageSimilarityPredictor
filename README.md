@@ -1,5 +1,5 @@
 # **LANGUAGE SIMILARITY PREDICTOR**<br>
-4/23/2025 | Payton Lin | INFSCI 0510 (Data Analytics) University of Pittsburgh | Instructor: Dmitry Babichenko
+4/25/2025 | Payton Lin | INFSCI 0510 (Data Analytics) University of Pittsburgh | Instructor: Dmitry Babichenko
 ### DESCRIPTION:
 This is a final project aiming to creat a prediction model for language similarity based on data from https://asjp.clld.org/languages
 ### METHODS USED:
