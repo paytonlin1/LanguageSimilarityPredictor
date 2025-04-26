@@ -10,3 +10,5 @@ This is a final project aiming to creat a prediction model for language similari
 5. Binary Classification
 ### FURTHER INFORMATION:
 For more information read my paper regarding the project here: [LanguageSimilarityPredictor Report](https://docs.google.com/document/d/1OmXNEYSgDPlXV9Kb2zFCjerAyo9HiHNB2nKuSJecdMU/edit?usp=sharing)
+### REQUIREMENTS:
+To run the simulation, you need to be able to run Jupyter Notebook, Seaborn, NumPy, Pandas, and Scikit-learn on Python 3.9.0+
